@@ -3,4 +3,6 @@ let amount = 0
 if(unit<=100){
     amount = unit*4.2
 }
-else if(unit)
+else if(unit>100 && unit<=200){
+    
+}
